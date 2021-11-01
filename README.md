@@ -1,3 +1,9 @@
+# Objective 
+The purpose of this repository is in fulfillment of GMIT course Fundamentals of Data Analysis module as a part of the HDip in Computing in Data Analytics degree. The repository contains a README, a Requirements file, and two Jupyter notebooks.   
+The first notebook pyplot.ipynb gives an overview of matplotlib.pyplot and an in depth explaination of three interesting plots from matplotlib.pyplot .  
+The second notebook cao.ipynb gives a overview of how to load CAO points from CAO website into a pandas frame. It also contains a detailed comparison of CAO points from 2019, 2020, and 2021 using pandas functionality. It includes plots and other visualisations to enhance the notebook for viewers.
+
+
 # Overview of Numpy Random Package
 
 ***
